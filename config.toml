@@ -1,0 +1,35 @@
+baseURL = "http://example.org/"
+languageCode = "en-gb"
+title = "MikeyCodes"
+theme = "minimal"
+
+[params]
+    author = "Mikey L"
+    description = "Programming, Running, Krav Maga and the odd spot of Pigeon whispering."
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway"
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "php"]
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/post/"
+    name = "Posts"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://github.com/mikeyscode/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/mikeycodes/"
+    name = "twitter"
+    weight = 3
