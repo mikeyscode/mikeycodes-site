@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-gb"
-title = "MikeyCodes"
+title = "Mikey Codes"
 theme = "minimal"
 
 [params]
@@ -20,7 +20,7 @@ theme = "minimal"
     weight = 1
 
 [[menu.main]]
-    url = "/post/"
+    url = "/posts/"
     name = "Posts"
     weight = 2
 
