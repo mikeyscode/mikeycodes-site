@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-gb"
-title = "MikeyCodes"
+title = "Mikey Codes"
 theme = "minimal"
 
 [params]
