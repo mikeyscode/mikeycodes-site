@@ -11,7 +11,7 @@ theme = "minimal"
     backgroundColor = "white"
     font = "Raleway"
     highlight = true
-    highlightStyle = "solarized-dark"
+    highlightStyle = "vs-2015"
     highlightLanguages = ["go", "php"]
 
 [[menu.main]]
