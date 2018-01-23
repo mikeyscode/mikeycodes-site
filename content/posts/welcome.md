@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 date: 2018-01-22T13:02:13Z
-draft: true
+draft: false
 ---
 
 I still haven't really gotten around to writing anything interesting just yet but hopefully that'll change this year. New Year, New Me is still a thing right? My goal for now is to just try and at least write one post a month, but I wouldn't hold me to that.

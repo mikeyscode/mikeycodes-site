@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://secret-sierra-45299.herokuapp.com/"
 languageCode = "en-gb"
 title = "Mikey Codes"
 theme = "minimal"
