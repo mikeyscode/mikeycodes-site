@@ -2,7 +2,7 @@
 title: "Redis Pipelines"
 date: 2018-01-23T19:14:08Z
 draft: false
-tags: ["technical", "redis"]
+tags: ["technical", "redis", "php"]
 ---
 
 
