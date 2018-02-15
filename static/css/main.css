@@ -16,6 +16,10 @@ main {
     max-width: 750px;
 }
 
+td {
+    padding: 2px 5px;
+}
+
 /*footer*/
 
 .copyright {

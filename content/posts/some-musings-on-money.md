@@ -1,7 +1,7 @@
 ---
 title: "Some Musings on Money"
-date: 2018-02-08T11:37:37Z
-draft: true
+date: 2018-02-15T11:37:37Z
+draft: false
 tags: ["finance"]
 ---
 
@@ -18,6 +18,8 @@ Take two people, Alice and Bob. Alice grew up talking about money and decided at
 
 Both of them started with £1000 in capital in their account and from their starting points put £200 into savings each month. Each year they gained 3% interest, so by age 50, how are they both fairing?
 
+---
+
 |                 | Alice       | Bob         |
 |-----------------|:------------|:------------|
 | Starting Age    | 18          | 30          |  
@@ -28,13 +30,14 @@ Both of them started with £1000 in capital in their account and from their star
 | Savings at 50   | £130,620.06 | £67,338.22  |
 | Savings at 65   | £248,861.28 | £160,270.23 |
 
+---
 
 Quite a sizable difference, I know which situation I would rather be in. Being young is a powerful tool in itself, and we should use it to our advantage where we can. Talk about money, educate each other on it and reap the rewards. If you don't believe me, lets stack the odds in Bob's favour and give Alice a mere 1% interest rate for the duration of the 47 years she's saving -- she would still finish with `£145,473.45` which is almost as much as Bob who has just enjoyed his saving years with 3% interest.
 
 ## Financial Literacy Is Not Taught in Schools
 I believe the book summed this up best with the following quote: 
 
-__“One of the reasons the rich get richer, the poor get poorer, and the middle class struggles in debt is that the subject of money is taught at home, not in school.”__ 
+_“One of the reasons the rich get richer, the poor get poorer, and the middle class struggles in debt is that the subject of money is taught at home, not in school.”_ 
 
 When was the last time you picked up a book which improved your knowledge of personal finance? For a large majority of it I worry that the answer is never. We are in an information age, there is so much knowledge available at our fingertips that we could spend all day, every day learning and still never scratch the surface of what is available. Your education should not stop when you finished school, it should be a continual process throughout all of your life. 
 
@@ -50,7 +53,7 @@ I put this into play prior to actually reading the book without realising. I pla
 ## Don’t be Afraid to Fail
 This one is not directly linked to personal finance, but it is a topic that came up in the book and an important topic at that. The book states:
 
-__“People who avoid failure also avoid success.”__
+_“People who avoid failure also avoid success.”_
 
 There is no truer quote to me, failure is a part of life and how we grow. You will never meet a successful person who has never failed - it just is not possible. Bring your minds back to when you were a baby, and join me for this cliché example: when you learnt to walk you fell a lot, you failed continually but you failed forwards. Each failure pushed you into the next attempt until eventually you were running around causing all types of havoc for your parents. We seem to forget that as we grow up, we try to avoid failure to save face or we play everything so safe that we see no real progression. That is no way to live in my opinion, we cannot be afraid to fail, we should instead want to fail because it means we have more to learn. We can use that failure to drive us forwards and come out the other side a better person.
 
