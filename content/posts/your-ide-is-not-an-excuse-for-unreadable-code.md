@@ -1,7 +1,7 @@
 ---
 title: "Your Ide Is Not an Excuse for Unreadable Code"
 date: 2018-03-16T21:25:26Z
-draft: false
+draft: true
 tags: ["technical", "clean code", "php"]
 ---
 
