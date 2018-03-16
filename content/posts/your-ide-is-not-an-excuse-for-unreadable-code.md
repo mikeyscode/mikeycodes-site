@@ -1,5 +1,5 @@
 ---
-title: "Your Ide Is Not an Excuse for Unreadable Code"
+title: "Your IDE Is Not an Excuse for Unreadable Code"
 date: 2018-03-16T21:25:26Z
 draft: false
 tags: ["technical", "clean code", "php"]
@@ -40,10 +40,11 @@ $postgresql->restartSequence('user');
 
 Overall we have added an extra line but that trade off gives us more readable code that does not rely on an IDE to understand at first glance. Even better we don’t have to dodge, duck, dip, dive and dodge into every other method to check its parameters, or what the flags mean if our IDE does not support hovering hints. We simply read well named methods and carry on our merry way.
 
-Oh and lets not forget there are Developer’s who choose not to use an IDE, or the times that you are in an environment where you do not have access to your favourite IDE. Maybe that urgent fix for that server that’s on fire at at 4:00am in the morning that you just had to SSH into.
+Oh and lets not forget there are developers who choose not to use an IDE, or the times that you are in an environment where you do not have access to your favourite IDE. Maybe that urgent fix for that server that’s on fire at at 4:00am in the morning that you just had to SSH into.
 
 These days we have so many tools at our disposal that they can make us lazy and reliant. As Developers we should always strive to write the best code we possibly can, and avoid the shortcuts that can lead to technical debt.
 
+  
 To finish on I believe it was John Woods who said _“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.”_<sup>[1](#quote-source)</sup> Words a Developer should live by, especially in an age where we post our location on social media at every turn.
 
 ---
