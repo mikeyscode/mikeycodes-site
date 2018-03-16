@@ -1,7 +1,7 @@
 ---
 title: "Your Ide Is Not an Excuse for Unreadable Code"
 date: 2018-03-16T21:25:26Z
-draft: true
+draft: false
 tags: ["technical", "clean code", "php"]
 ---
 
@@ -46,4 +46,5 @@ These days we have so many tools at our disposal that they can make us lazy and 
 
 To finish on I believe it was John Woods who said _“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.”_<sup>[1](#quote-source)</sup> Words a Developer should live by, especially in an age where we post our location on social media at every turn.
 
+---
 <a name="quote-source">1</a>: https://groups.google.com/forum/#!msg/comp.lang.c++/rYCO5yn4lXw/oITtSkZOtoUJ
