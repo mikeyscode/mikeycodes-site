@@ -7,6 +7,8 @@ tags: ["technical", "clean code", "php"]
 
 ## Your IDE Is Not an Excuse for Unreadable Code
 
+&nbsp; 
+
 I was reviewing some pull requests recently and I got into a  little debate. Just before I go into what that was exactly let me prefix this with: as a developer I am a very strong believer in writing clean, readable code. From top to bottom it should read like a story and if I handed it to someone who had never coded in their life, I want them to be able to understand roughly what the code is doing.
 
 So the debate started with the following comment;
