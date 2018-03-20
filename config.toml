@@ -2,6 +2,7 @@ baseURL = "https://mikey.codes/"
 languageCode = "en-gb"
 title = "Mikey Codes"
 theme = "minimal"
+disqusShortname = "mikey-codes"
 
 [params]
     author = "Mikey L"
