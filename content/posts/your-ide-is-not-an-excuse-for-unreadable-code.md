@@ -15,7 +15,7 @@ So the debate started with the following comment;
 
 &nbsp;
 
-_“My IDE tells me what the that parameter is meant to do when I hover over it”_
+_“My IDE tells me what that parameter is meant to do when I hover over it”_
 
 &nbsp;
 
