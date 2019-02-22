@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finance on Mikey Codes</title>
+    <link>https://mikey.codes/tags/finance/</link>
+    <description>Recent content in Finance on Mikey Codes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 16 Feb 2018 08:30:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://mikey.codes/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some Musings on Money</title>
+      <link>https://mikey.codes/posts/some-musings-on-money/</link>
+      <pubDate>Fri, 16 Feb 2018 08:30:37 +0000</pubDate>
+      
+      <guid>https://mikey.codes/posts/some-musings-on-money/</guid>
+      <description>Some Musings on Money I recently finished reading an interesting book; Rich Dad, Poor Dad by Robert Kiyosaki. Inside it there were some interesting views on the differences between the poor, middle class and the rich. The book was good at getting me thinking about my own situation, and the situation of those I care about. I would definitely recommend picking up the book and giving it a read if you have any sort of interest in personal finance.</description>
+    </item>
+    
+  </channel>
+</rss>

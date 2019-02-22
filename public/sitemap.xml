@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mikey.codes/posts/your-ide-is-not-an-excuse-for-unreadable-code/</loc>
+    <lastmod>2018-03-16T21:25:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mikey.codes/posts/some-musings-on-money/</loc>
+    <lastmod>2018-02-16T08:30:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mikey.codes/posts/redis-pipelines/</loc>
+    <lastmod>2018-01-23T19:14:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mikey.codes/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikey.codes/tags/clean-code/</loc>
+    <lastmod>2018-03-16T21:25:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikey.codes/tags/finance/</loc>
+    <lastmod>2018-02-16T08:30:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikey.codes/</loc>
+    <lastmod>2018-03-16T21:25:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikey.codes/tags/php/</loc>
+    <lastmod>2018-03-16T21:25:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikey.codes/posts/</loc>
+    <lastmod>2018-03-16T21:25:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikey.codes/tags/redis/</loc>
+    <lastmod>2018-01-23T19:14:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikey.codes/tags/</loc>
+    <lastmod>2018-03-16T21:25:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mikey.codes/tags/technical/</loc>
+    <lastmod>2018-03-16T21:25:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

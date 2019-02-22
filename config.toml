@@ -1,36 +1,43 @@
 baseURL = "https://mikey.codes/"
 languageCode = "en-gb"
 title = "Mikey Codes"
-theme = "minimal"
+theme = "hugo-cactus-theme"
 disqusShortname = "mikey-codes"
 
 [params]
-    author = "Mikey L"
-    description = "Programming, Running, Krav Maga and the odd spot of Pigeon whispering."
-    accent = "red"
-    showBorder = true
-    backgroundColor = "white"
-    font = "Raleway"
-    highlight = true
-    highlightStyle = ""
-    highlightLanguages = ["go", "php"]
+	name = "Mikey L"
+	description = "Descripton text here"
+	bio = "Developer, Runner and occasional Pigeon Whisperer"
+	# Enter optionally your twitter account
+	twitter = "mikeycodes"
+	enableRSS = true
 
-[[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
+	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
+	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
+	customCSS = []
+	customJS  = []
 
-[[menu.main]]
-    url = "/posts/"
-    name = "Posts"
-    weight = 2
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
 
-[[menu.icon]]
-    url = "https://github.com/mikeyscode/"
-    name = "github"
-    weight = 2
+	# Navigation links
+	home = ""
+	subscribe = ""
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "Manchester based Developer"
+	tweet = ""
+	share = ""
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
 
-[[menu.icon]]
-    url = "https://twitter.com/mikeycodes/"
-    name = "twitter"
-    weight = 3
+# Add additional social link entries underneath
+[social]
+    circletwitterbird = "https://www.twitter.com/mikeycodes"
+    circlegithubalt = "https://www.github.com/mikeyscode"
+    circlelinkedin = "https://www.linkedin.com/in/michael-leah-0b9281a7/"

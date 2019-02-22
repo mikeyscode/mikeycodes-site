@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clean Code on Mikey Codes</title>
+    <link>https://mikey.codes/tags/clean-code/</link>
+    <description>Recent content in Clean Code on Mikey Codes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 16 Mar 2018 21:25:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://mikey.codes/tags/clean-code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Your IDE Is Not an Excuse for Unreadable Code</title>
+      <link>https://mikey.codes/posts/your-ide-is-not-an-excuse-for-unreadable-code/</link>
+      <pubDate>Fri, 16 Mar 2018 21:25:26 +0000</pubDate>
+      
+      <guid>https://mikey.codes/posts/your-ide-is-not-an-excuse-for-unreadable-code/</guid>
+      <description>Your IDE Is Not an Excuse for Unreadable Code &amp;nbsp;
+I was reviewing some pull requests recently and I got into a little debate. Just before I go into what that was exactly let me prefix this with: as a developer I am a very strong believer in writing clean, readable code. From top to bottom it should read like a story and if I handed it to someone who had never coded in their life, I want them to be able to understand roughly what the code is doing.</description>
+    </item>
+    
+  </channel>
+</rss>

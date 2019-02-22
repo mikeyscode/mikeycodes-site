@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical on Mikey Codes</title>
+    <link>https://mikey.codes/tags/technical/</link>
+    <description>Recent content in Technical on Mikey Codes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 16 Mar 2018 21:25:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://mikey.codes/tags/technical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Your IDE Is Not an Excuse for Unreadable Code</title>
+      <link>https://mikey.codes/posts/your-ide-is-not-an-excuse-for-unreadable-code/</link>
+      <pubDate>Fri, 16 Mar 2018 21:25:26 +0000</pubDate>
+      
+      <guid>https://mikey.codes/posts/your-ide-is-not-an-excuse-for-unreadable-code/</guid>
+      <description>Your IDE Is Not an Excuse for Unreadable Code &amp;nbsp;
+I was reviewing some pull requests recently and I got into a little debate. Just before I go into what that was exactly let me prefix this with: as a developer I am a very strong believer in writing clean, readable code. From top to bottom it should read like a story and if I handed it to someone who had never coded in their life, I want them to be able to understand roughly what the code is doing.</description>
+    </item>
+    
+    <item>
+      <title>Redis Pipelines</title>
+      <link>https://mikey.codes/posts/redis-pipelines/</link>
+      <pubDate>Tue, 23 Jan 2018 19:14:08 +0000</pubDate>
+      
+      <guid>https://mikey.codes/posts/redis-pipelines/</guid>
+      <description>Introduction to Redis Pipelines What are Pipelines? At the very basic level Redis Pipelines allow us to send multiple commands to our server, have them executed and then read all the replies. If you are wondering why that’s different to how it normally works, think of it this way:
+We have a bridge, on one side of the bridge is all the commands we want to run. Our helper memorises a single command, carries it across the bridge and executes it.</description>
+    </item>
+    
+  </channel>
+</rss>
