@@ -8,9 +8,7 @@ tags: ["finance"]
 ### Some Musings on Money
 
 I recently finished reading an interesting book; Rich Dad, Poor Dad by Robert Kiyosaki. Inside it there were some interesting views on the differences between the poor, middle class and the rich. The book was good at getting me thinking about my own situation, and the situation of those I care about. I would definitely recommend picking up the book and giving it a read if you have any sort of interest in personal finance. Below i’ve just rambled about some thoughts I've had after reading the book.
-    
-&nbsp;    
-
+     
 ### We Shy Away from Talking about Money
 This may be more focused on my own generation but from my personal experience i’ve found that many people shy away from talking about money. On more than one occasion I’ve been told I should stop talking about money, or that I talk about it too much. This to me is a bad approach to take, one of the ways we can learn is by talking with others, we can bounce ideas off one another, call out inaccuracies and help each other grow. We should always encourage each other to talk more about our personal finances because as we do and we learn then we’ll potentially be able to improve our financial situation for the better. 
 
@@ -36,9 +34,6 @@ Both of them started with £1000 in capital in their account and from their star
 
 Quite a sizable difference, I know which situation I would rather be in. Being young is a powerful tool in itself, and we should use it to our advantage where we can. Talk about money, educate each other on it and reap the rewards. If you still don't believe me, lets stack the odds in Bob's favour and give Alice a mere 1% interest rate for the duration of the 47 years she's saving -- she would still finish with `£145,473.45` which is almost as much as Bob who has just enjoyed his saving years with three times her interest rate.
 
-&nbsp;
-
-
 ### Financial Literacy Is Not Taught in Schools
 I believe the book summed this up best with the following quote: 
 
@@ -49,16 +44,12 @@ When was the last time you picked up a book which improved your knowledge of per
 But to go back to the main point, schools very rarely if at all cover financial topics in any level of detail. For me personally the only financial education I received was at the hand of my business studies lessons and even that was limited. I do agree with the Rich Dad, Poor Dad that schools are not doing enough to teach children about proper financial management while they’re young. 
 We have to realise though as adults that just because you did not learn something at school, or you had a bad teacher - that is no excuse. Invest time into yourself, whether that be a new skill or something else. It will always be one of the smartest investments you can make.
 
-&nbsp;
-
 ### I Can’t Afford It
 I think this was one of my favourite points in this book, I have on many occasions when I wanted to purchase something, or go out with my friends said: “I can’t afford it” then just completely shut down and dismissed the idea. The book mentions how this is the wrong attitude, rather than saying that I can’t afford it I should be asking myself “How can I afford it?” because that question will lead to my growth and potentially coming up with a plan on how I can get what I want. The thought process that follows when you change your mindset is really interesting and when you achieve what you want the feeling you get is indescribable. 
 
 I put this into play prior to actually reading the book without realising. I plan to change my car in 2018, and I really wanted some form of sports car. Now at age 24 they can be a little bit expensive for me so I set about and thought about how I could afford one. In the end I have cut back my costs, made a few investments and heavily saved money from my salary. As a result come May time I should be ready to purchase the car I want, and I can’t wait.
 
 Anyone has the potential to do this, rather than just dismissing an idea take it as an exercise. Think about ways you could potentially get what you want whether that be cutting back on ordering that takeaway once a week. Cancelling that Netflix subscription you are only using once in a blue moon or reading books on investment to see if that's the right path for you. There are countless opportunities available you just have to spend the time to learn about them.
-
-&nbsp;
 
 ### Don’t be Afraid to Fail
 This one is not directly linked to personal finance, but it is a topic that came up in the book and an important topic at that. The book states:
@@ -67,12 +58,8 @@ _“People who avoid failure also avoid success.”_
 
 There is no truer quote to me, failure is a part of life and how we grow. You will never meet a successful person who has never failed - it is just not possible. Bring your minds back to when you were a baby, and join me for this cliché example: when you learnt to walk you fell a lot, you failed continually but you failed forwards. Each failure pushed you into the next attempt until eventually you were running around causing all types of havoc for your parents. We seem to forget that as we grow up, we try to avoid failure to save face or we play everything so safe that we see no real progression. That is no way to live in my opinion, we cannot be afraid to fail, we should instead want to fail because it means we have more to learn. We can use that failure to drive us forwards and come out the other side a better person.
 
-&nbsp;
-
 ### To Conclude…
 Try to talk about money, do not shy away from it. When we talk we learn, and that ability to learn is one of the greatest traits we have. Educate yourselves on anything and everything you can. Understand the importance about how the words you choose when talking to yourself will affect you and if you’re going to fail at something, let it be the driving force towards your next attempt and not the driving force as to why you give up.
-
-&nbsp;
 
 We are still early into 2018, there's more than enough time left in this year to make a change for the better.
 
