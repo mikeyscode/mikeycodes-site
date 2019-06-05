@@ -5,9 +5,9 @@ theme = "hugo-cactus-theme"
 disqusShortname = "mikey-codes"
 
 [params]
-	name = "Mikey L"
-	description = "Descripton text here"
-	bio = "Developer, Runner and occasional Pigeon Whisperer"
+	name = "Mikey"
+	description = "Manchester based Software Engineer "
+	bio = "Software Engineer, Runner and Self-help addict"
 	# Enter optionally your twitter account
 	twitter = "mikeycodes"
 	enableRSS = true
@@ -29,7 +29,7 @@ disqusShortname = "mikey-codes"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "Manchester based Developer"
+	aboutAuthor = "Software Engineer & Self-help addict"
 	tweet = ""
 	share = ""
 	# 404 page
