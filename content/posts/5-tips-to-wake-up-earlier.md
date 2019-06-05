@@ -1,7 +1,7 @@
 ---
 title: "5 Tips to Wake Up Earlier"
 date: 2019-06-05T16:00:26+01:00
-draft: true
+draft: false
 tags: ["personal development"]
 ---
   
