@@ -3,7 +3,7 @@ languageCode = "en-gb"
 title = "Mikey Codes"
 theme = "hugo-cactus-theme"
 disqusShortname = "mikey-codes"
-googleAnalytics = "UA-101089452-1"
+googleAnalytics = ""
 
 [params]
 	name = "Mikey"
