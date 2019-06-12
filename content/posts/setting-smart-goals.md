@@ -1,7 +1,7 @@
 ---
 title: "Setting Smart Goals"
 date: 2019-06-12T19:25:51+01:00
-draft: true
+draft: false
 ---
 
 ![SMART Goals](/images/smart-goals.png "SMART Goals")
